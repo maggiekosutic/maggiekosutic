@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maggiekosutic
+- Im a final year software engineering student.
+- Creating this to showcase some projects I've worked on. :)
